@@ -1,6 +1,6 @@
 "Basic"
 {
-	"$basetexture" "vgui/hud/input_arrow_down"
+	"$basetexture" "vgui/hud/input_arrow_down.vtf"
 	"$translucent" "1"
 	"$vertexcolor" "1"
 	"$vertexalpha" "1"
